@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/user-attachments/assets/2b518c2c-5d31-40c4-809d-ba2a2be365b0)
+![Logo](https://github.com/user-attachments/assets/a5866d29-5e57-461f-990c-6f880b8085ba)
 
 
 # Sambi Player
@@ -29,16 +29,12 @@ To develop and run this project, you will need to have Expo installed on your ma
 ## Issues
 If you encounter any issues with this project, please file an issue in the repository.
 ## Screenshots
-![App Screenshot](https://github.com/user-attachments/assets/26cadefe-04d3-46af-ad9e-913fab916ea0)
 
 
+![App Screenshot](https://github.com/user-attachments/assets/26351e73-59cc-4d66-8b60-6e22d13379f6)
+
+![App Screenshot](https://github.com/user-attachments/assets/b0bd4749-684e-4d65-a83f-9b85258eb886)
+
+![App Screenshot](https://github.com/user-attachments/assets/21822bd7-d156-4f59-99e3-cfcdb3c97fdd)
 
 
-
-![App Screenshot](https://github.com/user-attachments/assets/7c5ce5bf-b82a-4c44-a85b-fd235235a5f9)
-
-
-
-
-
-![App Screenshot](https://github.com/user-attachments/assets/e1065933-dd38-4c53-b6a3-49d6eb0fce3c)
